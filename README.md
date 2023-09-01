@@ -20,36 +20,16 @@ FilterPro is an advanced tool tailored for engineers and enthusiasts working wit
 Designed Filters for Five Frequency Bands
 The Analog Fiveband Equalizer incorporates five individual frequency bands, each designed to address specific audio frequency ranges. Here are the details of the designed filters:
 
-300 Hz Bandpass Filter:
++Frequency Range: 20 Hz to 300 Hz
++Frequency Range: 300 Hz to 1 kHz
++Frequency Range: 1 kHz to 4 kHz
++Frequency Range: 4 kHz to 10 kHz
++Frequency Range: 10 kHz to 20 kHz
 
-Frequency Range: 250 Hz to 350 Hz
 Filter Type: Butterworth Bandpass
 Design: Multiple Feedback Topology
 Resistor and Capacitor Values: Calculated using FilterPro
-300 Hz - 1 kHz Bandpass Filter:
 
-Frequency Range: 300 Hz to 1 kHz
-Filter Type: Butterworth Bandpass
-Design: Multiple Feedback Topology
-Resistor and Capacitor Values: Calculated using FilterPro
-1 kHz - 4 kHz Bandpass Filter:
-
-Frequency Range: 1 kHz to 4 kHz
-Filter Type: Butterworth Bandpass
-Design: Multiple Feedback Topology
-Resistor and Capacitor Values: Calculated using FilterPro
-4 kHz - 10 kHz Bandpass Filter:
-
-Frequency Range: 4 kHz to 10 kHz
-Filter Type: Butterworth Bandpass
-Design: Multiple Feedback Topology
-Resistor and Capacitor Values: Calculated using FilterPro
-10 kHz - 20 kHz Bandpass Filter:
-
-Frequency Range: 10 kHz to 20 kHz
-Filter Type: Butterworth Bandpass
-Design: Multiple Feedback Topology
-Resistor and Capacitor Values: Calculated using FilterPro
 Each of these filters employs a Bandpass configuration to isolate the desired frequency range while attenuating frequencies outside the passband. The Multiple Feedback Topology, in combination with the Butterworth filter type, ensures smooth frequency response and minimal phase distortion.
 
 By leveraging FilterPro's capabilities, we've been able to create precise and efficient analog filters that contribute to the enhanced audio customization offered by the Analog Fiveband Equalizer.
