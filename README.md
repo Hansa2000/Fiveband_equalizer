@@ -51,6 +51,9 @@ For simulation purposes, we utilized Multisim software to construct and test the
 
 ## PCB Designing
 ![Single Filter](images/pcb_design.png)
+
+The design of a compact 4-layer PCB presented significant challenges due to the high component density. To address this, we strategically allocated the signal layers to the top and bottom, reserving the middle layers for ground and power planes. This configuration was essential for maintaining signal integrity and minimizing interference, ensuring the reliability and performance of the PCB in demanding environments.
+
 ![Running Simulation](images/4-layers.png)
 
 ## Enclosure Designing
