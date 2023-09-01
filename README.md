@@ -14,7 +14,7 @@ Welcome to the Analog Fiveband Equalizer Project repository! This project focuse
 
 ## Filter Design using FilterPro Desktop by Texas Instruments
 ![Filter one](images/filter1.png)
-In the Analog Fiveband Equalizer Project, we have utilized the powerful capabilities of FilterPro, a software tool developed by Texas Instruments, to design a sophisticated set of analog filters. These filters are integral to the equalizer's ability to adjust audio signal gain across five distinct frequency bands, enabling users to achieve a personalized tonal balance that meets their preferences.
+In the Analog Fiveband Equalizer Project, we have utilized the capabilities of FilterPro, a software tool developed by Texas Instruments, to design a sophisticated set of analog filters. These filters are integral to the equalizer's ability to adjust audio signal gain across five distinct frequency bands, enabling users to achieve a personalized tonal balance that meets their preferences.
 
 FilterPro is an advanced tool tailored for engineers and enthusiasts working with analog filter design. Leveraging this software, we were able to design precise filters with calculated resistor and capacitor values that fulfill our specific frequency response requirements.
 
@@ -36,6 +36,20 @@ Each of these filters employs a Bandpass configuration to isolate the desired fr
 By leveraging FilterPro's capabilities, we've been able to create precise and efficient analog filters that contribute to the enhanced audio customization offered by the Analog Fiveband Equalizer.
 
 This project showcases the synergy of modern software tools and analog circuit design principles to create a feature-rich and versatile audio enhancement solution.
+
+## System High-level Architecture
+![High-level Architecture](images/highlevel_architecture.png)
+
+## Simulations
+![Single Filter](images/simulation_single_filter.png)
+![Running Simulation](images/running_simulation.png)
+
+## PCB Designing
+![Single Filter](images/pcb_design.png)
+![Running Simulation](images/4-layers.png)
+
+## Enclosure Designing
+![Enclosure](images/enclosure.png)
 
 ## Project Structure
 
