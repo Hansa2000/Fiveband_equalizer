@@ -13,6 +13,7 @@ Welcome to the Analog Fiveband Equalizer Project repository! This project focuse
 - Hardware implementation using analog circuitry.
 
 ## Filter Design using FilterPro Desktop by Texas Instruments
+![Filter one](images/filter1.png)
 In the Analog Fiveband Equalizer Project, we have utilized the powerful capabilities of FilterPro, a software tool developed by Texas Instruments, to design a sophisticated set of analog filters. These filters are integral to the equalizer's ability to adjust audio signal gain across five distinct frequency bands, enabling users to achieve a personalized tonal balance that meets their preferences.
 
 FilterPro is an advanced tool tailored for engineers and enthusiasts working with analog filter design. Leveraging this software, we were able to design precise filters with calculated resistor and capacitor values that fulfill our specific frequency response requirements.
