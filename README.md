@@ -4,7 +4,7 @@
 
 ![Equalizer](images/equalizer_image.png)
 
-This repository contains the source code and documentation for an Analog Fiveband Equalizer project. The project involves designing and building a hardware equalizer that can adjust the gain of audio signals across five different frequency bands. The equalizer provides control over the bass, midrange, and treble frequencies, allowing users to shape the audio output to their preferences.
+Welcome to the Analog Fiveband Equalizer Project repository! This project focuses on designing and building an analog hardware equalizer capable of adjusting audio signal gain across five distinct frequency bands. With control over bass, low midrange, midrange, high midrange, and treble frequencies, this equalizer empowers users to customize their audio output to their preferred tonal balance.
 
 ## Features
 
