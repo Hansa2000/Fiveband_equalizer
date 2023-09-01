@@ -40,8 +40,13 @@ This project showcases the synergy of modern software tools and analog circuit d
 ## System High-level Architecture
 ![High-level Architecture](images/highlevel_architecture.png)
 
+The system comprises a 3.5mm audio jack as the input interface, followed by a differential amplifier serving as an input buffer. Subsequently, the input signal is concurrently directed into five separate filter paths, where each path performs dedicated signal processing tasks or targets specific frequency bands. Amplification is applied individually within these filter paths to strengthen their respective components. Finally, the filtered and amplified signals are combined using an operational amplifier (op-amp) adder, yielding the ultimate processed audio output. This architecture is often employed in audio systems to split, process, and recombine multiple frequency components, commonly used for tasks such as audio equalization or specialized audio effects.
+
 ## Simulations
 ![Single Filter](images/simulation_single_filter.png)
+
+For simulation purposes, we utilized Multisim software to construct and test the entire system, ensuring that the chosen component values align with our desired outcome. This comprehensive simulation process allowed us to verify the functionality and performance of the system, ensuring its efficacy in real-world applications.
+
 ![Running Simulation](images/running_simulation.png)
 
 ## PCB Designing
