@@ -61,7 +61,7 @@ The design of a compact 4-layer PCB presented significant challenges due to the 
 
 ## Project Structure
 
-- `filter designs/`: filter designs (with calculated resistor values) .
+- `filter designs/`: filter designs.
 - `project design file/`: schematics and pcb designs (using altium).
 - `simulation files/` : simulations of integrated filters using multisim.
 - `images/`: Images related to the project.
